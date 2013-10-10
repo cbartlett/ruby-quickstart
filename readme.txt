@@ -41,7 +41,7 @@ REQUIREMENTS
 
 The following needs to be installed for the example:
 
-- Ruby 2.3.2 (install using "gem install -v=2.3.2 rails")
+- Rails 2.3.2 (install using "gem install -v=2.3.2 rails")
 - soap4r (install using "gem install soap4r")
 
 Note: the files included in this Quickstart include source that was originally generated
